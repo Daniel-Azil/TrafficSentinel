@@ -16,7 +16,7 @@ This project demonstrates real-time object detection and tracking in videos usin
 ```bash
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
-
+```
 ## Install dependencies:
 ```bash
 pip install -r requirements.txt
